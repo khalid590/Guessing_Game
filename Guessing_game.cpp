@@ -13,6 +13,7 @@ int main()
 
     if(guessNumber == randNumber){
         cout << "Woooo! You Won." <<endl;
+        break;
     }
 
     else{
