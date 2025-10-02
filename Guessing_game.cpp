@@ -17,7 +17,7 @@ int main()
     }
 
     else{
-        cout << "You loose! Try again." <<endl;
+        cout << "You lose! Try again." <<endl;
         cout << "Random Number was: " <<randNumber << endl <<endl;
     }
    }
